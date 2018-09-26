@@ -17,9 +17,9 @@ Cài đặt tool như sau:
 
 4) Vào ../utils/databases/__init__.py:
    - Nếu generate cho SQL Server 2016:
-        # database = Cockroach()
-   - Nếu generate cho CockroachDB v2.0.5:
         # database = SQLServer()
+   - Nếu generate cho CockroachDB v2.0.5:
+        # database = Cockroach()
 
 5) Run commandline:
     python __main__.py
