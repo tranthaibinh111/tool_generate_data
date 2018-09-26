@@ -1,0 +1,5 @@
+# Django MSSQL
+django-mssql
+django-pymssql
+pywin32
+psycopg2
